@@ -1,0 +1,28 @@
+.heading {
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding: 10px 15px;
+}
+body {
+    color: #333;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.panal{
+    border-bottom-left-radius: 3px;
+    border-color: #ddd;
+    padding:5px;
+}
+.panalBody,p{
+    text-align:justify;
+    padding:5px;
+}
+    

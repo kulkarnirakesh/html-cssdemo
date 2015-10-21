@@ -1,0 +1,1 @@
+This repository contains the the code for news paper templet and div split code . the css code is written in different files. 

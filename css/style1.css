@@ -1,0 +1,67 @@
+li {
+    display: inline;
+    
+}
+span{
+    margin: 40px;
+    Color:#000000;
+}
+
+
+.topnav {
+    color: #f1f1f1;
+    font-size: 17px;
+    letter-spacing: 1px;
+    background-color:#000000;
+    padding-top: 13px;
+    width: 980px;
+        }
+body {
+    background-color:#FFFFFF;
+
+}
+#table1 {
+   border: 1px solid black;
+} 
+.border1{
+     border: 1px solid black;
+}
+
+.column{
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    position: relative;
+}
+
+
+#content { 
+  overflow:auto; 
+  width:100%; 
+  background: white; 
+} 
+
+#left, #right { 
+display: inline-block;
+  width: 45%; 
+  margin:20px; 
+  padding:0px; 
+  background: white; 
+} 
+
+#left  { float:left;  }
+#right { float:right; } 
+
+#object1{
+    width: 30%; 
+    
+}
+#object2{
+    width:20%;
+}
+#content1{
+    overflow:auto; 
+  width:100%; 
+  background: white; 
+    
+}
